@@ -1,0 +1,16 @@
+
+#top { background-color: pink ; font-family: "garamond"} 
+
+a:link, a:visited {
+
+    color: rgb(3, 3, 3);
+    background-color: rgb(57, 186, 212);
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    }
+a:hover, a:active {
+    background-color: chocolate;
+    } 
+
